@@ -1,0 +1,4 @@
+users,requests,success,errors,avg_time
+5,5,5,0,26.5
+10,10,10,0,33.79
+20,20,20,0,62.06
